@@ -1,0 +1,16 @@
+[
+{
+  "modid": "zion",
+  "name": "Zion Mod",
+  "description": "an trader system  mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["percychen"],
+  "credits": "ckhbox,The Forge and FML guys",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
